@@ -1,0 +1,126 @@
+#ft{
+    padding-left: 02px;
+    margin-top: 10px;
+    font-family: 'Caveat', cursive;
+    color:rgb(128, 109, 0);
+}
+#nav{
+    margin-top:0px;
+    width: 800pt;
+    height: auto;
+    margin-left: 0px;   
+   
+}
+#ul{
+    display: inline-block;
+}
+
+li{
+    float: left;
+     
+} 
+.blv{
+    position: relative;
+    left: 0;
+}
+
+ #ul li{
+    padding-left: 240px;
+    float: left;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: yellowgreen;
+} 
+
+.nav-link:hover{
+   background-color: brown;
+}
+nav #list2{
+   background-color: red;
+ }
+.head1{
+    margin-left: 20px;
+    margin-top: 80px;
+    padding-right: 900px;
+    padding-left: 15px;
+}
+.head2{
+
+  position: absolute;
+  right: 0;
+}
+.p2{
+    width: 550px;
+    font-family: 'Knewave', cursive;
+    font-weight: bold;
+}
+.p1{
+   width: 550px;
+   font-family: 'Knewave', cursive;
+   font-weight: bold;
+}
+.head3{
+    margin-top: 140px;
+    margin-left:20px ;
+    padding-right: 790pt;
+    padding-left: 15px;
+}
+.p3{
+    width:700px;
+    font-family: 'Knewave', cursive;
+    font-weight: bold;
+}
+.card{
+    margin-left: 280px;
+    margin-right: 400px;
+
+}
+.btn{
+    margin-left: 200px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.footer{
+    background-color:yellowgreen
+
+
+}
+.underline{
+    font: outline;
+    font-weight: bold;
+    color:#5b61ac;
+    font-family: monospace;
+    font-size: 30px;
+    border:2px solid blue;
+    
+}
+#brand{
+    margin-left: 70px;
+}
+/* .menu2{
+    display: none;
+    color: blueviolet;
+    background-color: burlywood;
+    margin: 20px;
+    
+} */
+/* .menu2{
+    display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+
+  } */
+  /* .menu2 a {
+    color: black;
+    padding: 16px 14px;
+    text-decoration: none;
+    display: block;
+  }
+.dropdown:hover .menu1{
+    display: block;
+}
+.ser{
+    background-color:#4CAF50;
+    border: 2px solid blue;
+} */
